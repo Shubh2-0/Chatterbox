@@ -12,8 +12,6 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
 
 ✨ Join and Leave Notifications: Chatterbox keeps you informed about the chat activity. Receive notifications when users join or leave the chat, ensuring you never miss out on important updates.
 
-✨ Emoji Support: Express yourself with a wide range of emojis available in Chatterbox. From 😄 to 🎉, add color and emotion to your messages and create a lively atmosphere in the chat.
-
 ✨ WebSocket Integration: Chatterbox harnesses the power of WebSockets to establish a bidirectional communication channel between the server and clients. Enjoy low-latency, efficient, and reliable real-time communication.
 
 ## Get Started
@@ -57,12 +55,7 @@ Chatterbox was developed as a project for learning Spring Boot and WebSockets. W
 ## Contact
 
 
-## Video Demonstration
-
-<video width="640" height="360" controls>
-  <source src="https://youtu.be/9HDW65HH5s8" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Demo
 
 For any inquiries or further information, please feel free to contact the Chatterbox team at [email@example.com](mailto:email@example.com). We would be thrilled to hear from you!
 
