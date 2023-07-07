@@ -56,6 +56,14 @@ Chatterbox was developed as a project for learning Spring Boot and WebSockets. W
 
 ## Contact
 
+
+## Video Demonstration
+
+<video width="640" height="360" controls>
+  <source src="https://youtu.be/9HDW65HH5s8" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 For any inquiries or further information, please feel free to contact the Chatterbox team at [email@example.com](mailto:email@example.com). We would be thrilled to hear from you!
 
 ---
