@@ -16,18 +16,6 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
 
 ✨ WebSocket Integration: Chatterbox harnesses the power of WebSockets to establish a bidirectional communication channel between the server and clients. Enjoy low latency, efficient, and reliable real-time communication.
 
-## Project Images
-
-
-
-Here are a few screenshots showcasing the Chatterbox chat application:
-
-![Image 1](Images/image1.png)
-![Image 2](Images/image2.png)
-![Image 3](Images/image3.png)
-
----
-
 ## Group Chat 👥💬
 
 Chatterbox offers a seamless group chat experience, allowing multiple users to collaborate and engage in conversations simultaneously. Whether you're working on a team project, organizing an event, or simply chatting with friends, Chatterbox's group chat feature ensures everyone stays connected and can actively participate in the discussion.
@@ -38,7 +26,7 @@ With Chatterbox's group chat, you can foster collaboration, enhance communicatio
 
 
 
-## Demo
+## Demo 🎥
 
 Check out the demo of Chatterbox in action:
 
