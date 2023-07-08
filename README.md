@@ -25,12 +25,16 @@ Chatterbox offers a seamless group chat experience, allowing multiple users to c
 With Chatterbox's group chat, you can foster collaboration, enhance communication, and make your conversations more engaging than ever!
 
 
-
 ## Demo 🎥
 
 Check out the demo of Chatterbox in action:
 
 ![Demo](Images/demo.gif)
+
+
+## Javadoc 📃
+
+For more detailed explanations of the classes, methods, and their functionalities, please refer to the [JavaDoc website](https://aquamarine-sprite-f2ebae.netlify.app/) of this Chatterbox project. The JavaDoc documentation provides a comprehensive reference and understanding of the implementation details, making it easier to navigate and comprehend the methods and their usage within the application.
 
 
 ## Tools Used 🛠️
@@ -92,12 +96,6 @@ Check out the demo of Chatterbox in action:
   </tr>
 </table>
 
-
-
-
-
-
-
 ## Get Started
 
 Ready to embark on an exciting chat journey? Follow these simple steps to get started with Chatterbox:
@@ -133,10 +131,11 @@ We believe in the power of collaboration! You're invited to contribute to the gr
 
 Chatterbox was developed as a project for learning Spring Boot and WebSockets. We extend our gratitude to the developers and contributors of the libraries and frameworks used in this project for their remarkable work.
 
-## Contact
+<h2>📬 Contact</h2>
 
-For any inquiries or further information, please feel free to contact the Chatterbox team at [email@example.com](mailto:email@example.com). We would be thrilled to hear from you!
+If you want to contact me, you can reach me through below handles.
 
----
 
-For more detailed explanations of the classes, methods, and their functionalities, please refer to the [JavaDoc website](https://example.com/javadoc) of this Chatterbox project. The JavaDoc documentation provides a comprehensive reference and understanding of the implementation details, making it easier to navigate and comprehend the methods and their usage within the application.
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-bhati-787319213/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+
+
