@@ -18,29 +18,29 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
 
 <table align="center">
   <tr>
-    <td align="center" width="100" style="padding: 50px;">
+    <td align="center" width="1000" style="padding: 50px;">
       <img src="Images/java.png" width="48" height="48" alt="Java" />
       <br>Java 
     </td>
-    <td align="center" width="100" style="padding: 50px;">
+    <td align="center" width="1000" style="padding: 50px;">
       <img src="Images/springb.png" width="45" height="45" alt="Spring Boot" />
       <br>Spring Boot
     </td>
-    <td align="center" width="100" style="padding: 50px;">
+    <td align="center" width="1000" style="padding: 50px;">
       <img src="Images/WebSocket.png" width="45" height="45" alt="Spring Websocket" />
       <br>Spring Websocket
     </td>
-    <td align="center" width="100" style="padding: 50px;">
+    <td align="center" width="1000" style="padding: 50px;">
       <img src="Images/maven.png" width="48" height="48" alt="Maven" />
       <br>Maven
     </td>    
-    <td align="center" width="100" style="padding: 50px;">
+    <td align="center" width="1000" style="padding: 50px;">
       <img src="Images/jdbc.png" width="48" height="48" alt="JDBC" />
       <br>JDBC
     </td>
   </tr>
   <tr>
-    <td align="center" width="100" style="padding: 50px;">
+    <td align="center" width="1000" style="padding: 50px;">
       <img src="Images/swing.png" width="48" height="48" alt="Swing" />
       <br>Swing
     </td>
