@@ -35,18 +35,18 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
       <br>Maven
     </td>    
     <td align="center" width="170">
-      <img src="Images/jdbc.png" width="48" height="48" alt="JDBC" />
-      <br>JDBC
+      <img src="Images/lambok.png" width="48" height="48" alt="JDBC" />
+      <br>Lombok
     </td>
   </tr>
   <tr>
     <td align="center" width="170">
-      <img src="Images/swing.png" width="48" height="48" alt="Swing" />
-      <br>Swing
+      <img src="Images/html.png" width="48" height="48" alt="Swing" />
+      <br>HTML
     </td>
     <td align="center" width="170">
-      <img src="Images/lombok.png" width="48" height="48" alt="Lombok" />
-      <br>Lombok
+      <img src="Images/css.png" width="48" height="48" alt="Lombok" />
+      <br>CSS
     </td>
     <td align="center" width="170">
       <img src="Images/eclipse.png" width="48" height="48" alt="Eclipse" />
