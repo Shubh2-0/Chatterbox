@@ -21,37 +21,37 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
     
   <tr>
      <td align="center" width="100">
-        <img src="Tools/java.png" width="48" height="48" alt="javascript" />
+        <img src="Images/java.png" width="48" height="48" alt="javascript" />
       <br>Java 
     </td>
       <td align="center" width="100">
-        <img src="Tools/mysql.png" width="45" height="45" alt="HTML" />
+        <img src="Images/mysql.png" width="45" height="45" alt="HTML" />
       <br>My SQL
     </td>
 <td align="center" width="100">
-        <img src="Tools/maven.png" width="48" height="48" alt="Vuejs" />
+        <img src="Images/maven.png" width="48" height="48" alt="Vuejs" />
       <br>Maven
     </td>    
    <td align="center" width="100">
-        <img src="Tools/jdbc.png" width="48" height="48" alt="CSS" />
+        <img src="Images/jdbc.png" width="48" height="48" alt="CSS" />
       <br>JDBC
     </td>
    </tr>
    <tr>
 <td align="center" width="100">
-        <img src="Tools/swing.png" width="48" height="48" alt="Vuejs" />
+        <img src="Images/swing.png" width="48" height="48" alt="Vuejs" />
       <br>Swing
     </td>    
 <td align="center" width="100">
-        <img src="Tools/lambok.png" width="48" height="48" alt="Vuejs" />
+        <img src="Images/lambok.png" width="48" height="48" alt="Vuejs" />
       <br>Lombok
     </td>    
 <td align="center" width="100">
-        <img src="Tools/eclipse.png" width="48" height="48" alt="Java" />
+        <img src="Images/eclipse.png" width="48" height="48" alt="Java" />
       <br>Eclipse
     </td>
 <td align="center" width="100">
-        <img src="Tools/github.png" width="48" height="48" alt="Vuejs" />
+        <img src="Images/github.png" width="48" height="48" alt="Vuejs" />
       <br>GitHub
     </td> 
   </tr> 
