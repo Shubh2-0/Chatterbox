@@ -56,6 +56,10 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
       <img src="Images/github.png" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td> 
+     <td align="center" width="170">
+      <img src="Images/vscode.png" width="48" height="48" alt="Eclipse" />
+      <br>VS Code
+    </td>
   </tr>
 </table>
 
