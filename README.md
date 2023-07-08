@@ -1,5 +1,7 @@
 # Chatterbox: The Ultimate Real-Time Chat Experience! 🌟
 
+![Image 1](Images/poster.png)
+
 Chatterbox is a cutting-edge, feature-rich real-time chat application built on the powerful combination of Spring Boot and WebSockets. It enables seamless and interactive communication between users in real-time, fostering vibrant conversations and facilitating efficient information sharing. 💬🚀
 
 With Chatterbox, users can engage in lively discussions, exchange valuable insights, collaborate on projects, and build strong communities. The application's intuitive interface provides a delightful user experience, ensuring that individuals of all technical backgrounds can effortlessly navigate and actively participate in the captivating chat environment. 💡💻
@@ -13,6 +15,23 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
 ✨ Join and Leave Notifications: Chatterbox keeps you informed about the chat activity. Receive notifications when users join or leave the chat, ensuring you never miss out on important updates.
 
 ✨ WebSocket Integration: Chatterbox harnesses the power of WebSockets to establish a bidirectional communication channel between the server and clients. Enjoy low latency, efficient, and reliable real-time communication.
+
+## Project Images
+
+Here are a few screenshots showcasing the Chatterbox chat application:
+
+![Image 1](Images/image1.png)
+![Image 2](Images/image2.png)
+![Image 3](Images/image3.png)
+
+---
+
+## Demo
+
+Check out the demo of Chatterbox in action:
+
+![Demo](Images/demo.gif)
+
 
 ## Tools Used 🛠️
 
