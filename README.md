@@ -15,52 +15,50 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
 ✨ WebSocket Integration: Chatterbox harnesses the power of WebSockets to establish a bidirectional communication channel between the server and clients. Enjoy low latency, efficient, and reliable real-time communication.
 
 ## Tools Used 🛠️
-<table align="center">
 
-<br>
-    
+<table align="center">
   <tr>
-     <td align="center" width="100">
-        <img src="Images/java.png" width="48" height="48" alt="javascript" />
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="Images/java.png" width="48" height="48" alt="Java" />
       <br>Java 
     </td>
-      <td align="center" width="100">
-        <img src="Images/springb" width="45" height="45" alt="HTML" />
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="Images/springb.png" width="45" height="45" alt="Spring Boot" />
       <br>Spring Boot
     </td>
-      <td align="center" width="100">
-        <img src="Images/WebSocket.png" width="45" height="45" alt="HTML" />
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="Images/WebSocket.png" width="45" height="45" alt="Spring Websocket" />
       <br>Spring Websocket
     </td>
-<td align="center" width="100">
-        <img src="Images/maven.png" width="48" height="48" alt="Vuejs" />
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="Images/maven.png" width="48" height="48" alt="Maven" />
       <br>Maven
     </td>    
-   <td align="center" width="100">
-        <img src="Images/jdbc.png" width="48" height="48" alt="CSS" />
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="Images/jdbc.png" width="48" height="48" alt="JDBC" />
       <br>JDBC
     </td>
-   </tr>
-   <tr>
-<td align="center" width="100">
-        <img src="Images/swing.png" width="48" height="48" alt="Vuejs" />
+  </tr>
+  <tr>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="Images/swing.png" width="48" height="48" alt="Swing" />
       <br>Swing
-    </td>    
-<td align="center" width="100">
-        <img src="Images/lambok.png" width="48" height="48" alt="Vuejs" />
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="Images/lombok.png" width="48" height="48" alt="Lombok" />
       <br>Lombok
-    </td>    
-<td align="center" width="100">
-        <img src="Images/eclipse.png" width="48" height="48" alt="Java" />
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="Images/eclipse.png" width="48" height="48" alt="Eclipse" />
       <br>Eclipse
     </td>
-<td align="center" width="100">
-        <img src="Images/github.png" width="48" height="48" alt="Vuejs" />
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="Images/github.png" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td> 
-  </tr> 
+  </tr>
+</table>
 
-  </table>
 
 ## Get Started
 
