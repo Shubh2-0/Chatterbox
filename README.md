@@ -25,8 +25,12 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
       <br>Java 
     </td>
       <td align="center" width="100">
-        <img src="Images/mysql.png" width="45" height="45" alt="HTML" />
-      <br>My SQL
+        <img src="Images/springb" width="45" height="45" alt="HTML" />
+      <br>Spring Boot
+    </td>
+      <td align="center" width="100">
+        <img src="Images/WebSocket.png" width="45" height="45" alt="HTML" />
+      <br>Spring Websocket
     </td>
 <td align="center" width="100">
         <img src="Images/maven.png" width="48" height="48" alt="Vuejs" />
