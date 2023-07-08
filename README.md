@@ -34,12 +34,12 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
       <img src="Images/maven.png" width="48" height="48" alt="Maven" />
       <br>Maven
     </td>    
-    <td align="center" width="170">
+  </tr>
+  <tr>
+      <td align="center" width="170">
       <img src="Images/lambok.png" width="48" height="48" alt="JDBC" />
       <br>Lombok
     </td>
-  </tr>
-  <tr>
     <td align="center" width="170">
       <img src="Images/html.png" width="48" height="48" alt="Swing" />
       <br>HTML
@@ -49,8 +49,8 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
       <br>CSS
     </td>
     <td align="center" width="170">
-      <img src="Images/eclipse.png" width="48" height="48" alt="Eclipse" />
-      <br>Eclipse
+      <img src="Images/js.png" width="48" height="48" alt="Eclipse" />
+      <br>JavaScript
     </td>
     <td align="center" width="170">
       <img src="Images/github.png" width="48" height="48" alt="GitHub" />
