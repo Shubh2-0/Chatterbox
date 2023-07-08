@@ -52,29 +52,9 @@ With Chatterbox, users can engage in lively discussions, exchange valuable insig
       <img src="Images/js.png" width="48" height="48" alt="Eclipse" />
       <br>JavaScript
     </td>
-    <td align="center" width="170">
-      <img src="Images/github.png" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td> 
-     <td align="center" width="170">
-      <img src="Images/vscode.png" width="48" height="48" alt="Eclipse" />
-      <br>VS Code
-    </td>
   </tr>
     <tr>
-    <td align="center" width="170">
-      <img src="Images/html.png" width="48" height="48" alt="Swing" />
-      <br>HTML
-    </td>
-    <td align="center" width="170">
-      <img src="Images/css.png" width="48" height="48" alt="Lombok" />
-      <br>CSS
-    </td>
-    <td align="center" width="170">
-      <img src="Images/eclipse.png" width="48" height="48" alt="Eclipse" />
-      <br>Eclipse
-    </td>
-    <td align="center" width="170">
+         <td align="center" width="170">
       <img src="Images/github.png" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td> 
