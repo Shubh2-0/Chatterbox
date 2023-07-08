@@ -28,11 +28,11 @@ Here are a few screenshots showcasing the Chatterbox chat application:
 
 ---
 
-## Group Chat
+## Group Chat 👥💬
 
 Chatterbox offers a seamless group chat experience, allowing multiple users to collaborate and engage in conversations simultaneously. Whether you're working on a team project, organizing an event, or simply chatting with friends, Chatterbox's group chat feature ensures everyone stays connected and can actively participate in the discussion.
 
-![Group Chat](Images/group_chat.png)
+![Group Chat](Images/groupchat.png)
 
 With Chatterbox's group chat, you can foster collaboration, enhance communication, and make your conversations more engaging than ever!
 
