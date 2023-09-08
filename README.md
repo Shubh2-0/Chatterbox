@@ -1,4 +1,4 @@
- <h1 align="center">Chatterbox</h1> 
+ <h1 align="center">Chatterbox🗨️</h1> 
 
 ![Image 1](Images/poster.png)
 
